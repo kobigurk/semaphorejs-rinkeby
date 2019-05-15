@@ -10,4 +10,4 @@ To generate an identity:
 `npx semaphorejs-client generate_identity`
 
 To broadcast a signal (after an admin added your identity to semaphore):
-`npx semaphorejs-client signal "Hello!"`
+`npx semaphorejs-client signal "I vote for X"`
