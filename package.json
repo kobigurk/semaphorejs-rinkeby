@@ -3,13 +3,11 @@
   "version": "0.1.1",
   "description": "",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "unpack": "tar xzf build.tgz"
   },
   "author": "",
-  "license": "GPL-3.0",
-  "dependencies": {
-    "zkp-semaphorejs": "^0.2.1"
-  }
+  "license": "GPL-3.0"
 }
