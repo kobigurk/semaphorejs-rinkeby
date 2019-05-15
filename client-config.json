@@ -1,0 +1,11 @@
+{
+  "LOG_LEVEL": "verbose",
+  "IDENTITY_PATH": "./semaphore_identity.json",
+  "NODE_URL": "wss://rinkeby.infura.io/ws/v3/f4a3ad81db3f4750bd201955c8d20066",
+  "EXTERNAL_NULLIFIER": "auto",
+  "SEMAPHORE_SERVER_URL": "https://semaphore-server.kobi.one",
+  "BROADCASTER_ADDRESS": "0x1929c15f4e818abf2549510622a50c440c474223",
+  "CONTRACT_ADDRESS": "0xde297a7213b238F4a65F0a5B65F19C25c165dB38",
+  "CHAIN_ID": "4",
+  "TX_CONFIRM": "1"
+}
